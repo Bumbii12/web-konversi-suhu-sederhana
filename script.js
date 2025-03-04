@@ -76,4 +76,3 @@ window.onclick = function(event) {
   }
 }
 
-//Copyright © Arifian Saputra , 2021. All rights reserved.
